@@ -13,31 +13,31 @@ A fun and interactive **Tic-Tac-Toe game** built with **HTML, CSS, and JavaScrip
 
 ---
 ## 📂 Project Structure
- tic-tac-teo-game/
-│── index.html       # Main game structure
-│── style.css        # Game styling
-│── script.js        # Game logic
-└── screenshots/     # Game screenshots
+ -tic-tac-teo-game/
+- │── index.html       # Main game structure
+- │── style.css        # Game styling
+- │── script.js        # Game logic
+- └── screenshots/     # Game screenshots
 
 ---
 ## 🎮 How to Play
-1.The game is played on a 3x3 grid.
-2.Player 1 is ❌, Player 2 is ⭕
-3.Players take turns marking an empty square.
-4.The first player to get three in a row wins!
-(Row, Column, or Diagonal)
-5.If all squares are filled and no one wins, it's a draw.
+- 1.The game is played on a 3x3 grid.
+- 2.Player 1 is ❌, Player 2 is ⭕
+- 3.Players take turns marking an empty square.
+- 4.The first player to get three in a row wins!
+- (Row, Column, or Diagonal)
+- 5.If all squares are filled and no one wins, it's a draw.
 
 ---
 
 ## 💡 Future Improvements
- 🤖 Single-player mode with AI
-🎵 Background music & sound effects
-🏆 Scoreboard tracking
+- 🤖 Single-player mode with AI
+- 🎵 Background music & sound effects
+ -🏆 Scoreboard tracking
 
 ---
 ## 🖋 Author
-Fatima Firdouse
+- Fatima Firdouse
 
 ---
 
