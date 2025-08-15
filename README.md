@@ -3,6 +3,10 @@
 A fun and interactive **Tic-Tac-Toe game** built with **HTML, CSS, and JavaScript**. Play against a friend locally and enjoy the classic game in a modern UI.
 
 ---
+## 🛠️ Tech Stack
+
+- Frontend: HTML, CSS, JavaScript
+---
 
 ## ✨ Features
 - 🕹 **Two-player mode** (Play with a friend)
@@ -36,13 +40,15 @@ A fun and interactive **Tic-Tac-Toe game** built with **HTML, CSS, and JavaScrip
  -🏆 Scoreboard tracking
 
 ---
-## 🖋 Author
-- Fatima Firdouse
-
----
 
 ## 🛠 Installation & Setup
 
 1. **Clone the repository**
    ```bash
    git clone https://github.com/fatima-firdouse/tic-tac-teo-game.git
+---
+## 🖋 Author
+- Made with ❤️ by Fatima Firdouse
+
+---
+
